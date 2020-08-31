@@ -4,9 +4,13 @@ This repository hosts the useful links to the knowledge that I've attained throu
 ## Game Development
 [Unity](#unity)
 
+## Frontend
+[Flutter](#flutter)
+
 ## Machine Learning / AI
 [Deep Learning](#deep-learning)
 
+-----
 ### Unity
 -  [Object Pooling Concept](https://www.raywenderlich.com/847-object-pooling-in-unity)
 -  [Draw Call Optimization](https://thegamedev.guru/unity-performance/draw-call-optimization/)
@@ -15,3 +19,6 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Deep Learning
 - [Deep Learning Specialization Course](https://www.deeplearning.ai/deep-learning-specialization/)
+
+### Flutter
+- [Flutter Essentials](https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/)
