@@ -10,6 +10,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 ## Machine Learning / AI
 [Deep Learning](#deep-learning)
 
+## Fundamentals
+[Networking](#networking)
+
 -----
 ### Unity
 -  [Object Pooling Concept](https://www.raywenderlich.com/847-object-pooling-in-unity)
@@ -22,3 +25,6 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Flutter
 - [Flutter Essentials](https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/)
+
+### Networking
+- [Networking Fundamentals](https://tushars.xyz/data/cn.html)
