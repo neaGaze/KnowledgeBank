@@ -11,7 +11,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 [Deep Learning](#deep-learning)
 
 ## Fundamentals
-[Networking](#networking)
+- [Networking](#networking)
+- [DBMS](#dbms)
+- [Operating Systems](#operating-systems)
 
 -----
 ### Unity
@@ -28,3 +30,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Networking
 - [Networking Fundamentals](https://tushars.xyz/data/cn.html)
+
+### DBMS
+- [DBMS Questions](https://drive.google.com/file/d/1DQ_eiQZuuF8hKbcGkhREjwdTh1MCrl-g/view?usp=sharing)
+
+### Operating Systems
+- [Operating System Questions](https://docs.google.com/document/d/191a-PHHLAH1I33-G3X_adOksNK0OKFiNPDMrnHhZdco/edit?usp=sharing)
