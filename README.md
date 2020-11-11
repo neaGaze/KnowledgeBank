@@ -17,6 +17,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ## Algorithms
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
+
+## Unix 
+- [Commands Handbook](#linux-commands)
 -----
 ### Unity
 -  [Object Pooling Concept](https://www.raywenderlich.com/847-object-pooling-in-unity)
@@ -41,3 +44,6 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Data Structures And Algorithms
 - [Binary Search Framework](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+
+### Linux Commands
+- [The Linux Commands Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/linux-commands-handbook/linux-commands-handbook.pdf)
