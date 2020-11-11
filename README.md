@@ -30,6 +30,8 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Deep Learning
 - [Deep Learning Specialization Course](https://www.deeplearning.ai/deep-learning-specialization/)
+- [Practical Deep Learning for Coders from Fast.ai (FREE) PART 1](https://www.youtube.com/watch?v=0oyCUWLL_fU)
+- [Practical Deep Learning for Coders from Fast.ai (FREE) PART 2](https://youtu.be/HL7LOfyf6bc)
 
 ### Flutter
 - [Flutter Essentials](https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/)
