@@ -5,7 +5,8 @@ This repository hosts the useful links to the knowledge that I've attained throu
 [Unity](#unity)
 
 ## Frontend
-[Flutter](#flutter)
+- [Flutter](#flutter)
+- [React](#react)
 
 ## Machine Learning / AI
 [Deep Learning](#deep-learning)
@@ -32,6 +33,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Flutter
 - [Flutter Essentials](https://www.freecodecamp.org/news/flutter-app-course-mobile-web-desktop/)
+
+### React
+- [React HandBook](https://flaviocopes.com/page/list-subscribed)
 
 ### Networking
 - [Networking Fundamentals](https://tushars.xyz/data/cn.html)
