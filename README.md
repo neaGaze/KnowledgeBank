@@ -50,6 +50,7 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Data Structures And Algorithms
 - [Binary Search Framework](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+- [Dynamic Programming Framework](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 ### Linux Commands
 - [The Linux Commands Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/linux-commands-handbook/linux-commands-handbook.pdf)
