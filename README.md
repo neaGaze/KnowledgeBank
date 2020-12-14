@@ -21,6 +21,10 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ## Unix 
 - [Commands Handbook](#linux-commands)
+
+## Trading 
+- [Algorithmic Trading Course](#algorithmic-trading)
+
 -----
 ### Unity
 -  [Object Pooling Concept](https://www.raywenderlich.com/847-object-pooling-in-unity)
@@ -54,3 +58,6 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Linux Commands
 - [The Linux Commands Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/linux-commands-handbook/linux-commands-handbook.pdf)
+
+### Algorithmic Trading
+- [Algorithmic Trading With Python](https://www.youtube.com/watch?v=xfzGZB4HhEE)
