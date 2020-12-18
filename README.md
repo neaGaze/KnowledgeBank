@@ -25,6 +25,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 ## Trading 
 - [Algorithmic Trading Course](#algorithmic-trading)
 
+## Physics
+- Quantum Mechanics (#quantum-mechanics)
+
 -----
 ### Unity
 -  [Object Pooling Concept](https://www.raywenderlich.com/847-object-pooling-in-unity)
@@ -45,6 +48,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Networking
 - [Networking Fundamentals](https://tushars.xyz/data/cn.html)
+
+### Quantum Mechanics
+- [Feynman's Note of Physics](https://www.feynmanlectures.caltech.edu/)
 
 ### DBMS
 - [DBMS Questions](https://drive.google.com/file/d/1DQ_eiQZuuF8hKbcGkhREjwdTh1MCrl-g/view?usp=sharing)
