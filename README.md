@@ -60,6 +60,7 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Data Structures And Algorithms
 - [Binary Search Framework](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
+- [Disjoint Union Find Framework](https://leetcode.com/discuss/general-discussion/1072418/disjoint-set-union-dsuunion-find-a-complete-guide)
 - [Dynamic Programming Framework](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 ### Linux Commands
