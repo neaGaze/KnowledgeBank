@@ -7,6 +7,7 @@ This repository hosts the useful links to the knowledge that I've attained throu
 ## Frontend
 - [Flutter](#flutter)
 - [React](#react)
+- [Angular](#angular)
 
 ## Machine Learning / AI
 [Deep Learning](#deep-learning)
@@ -45,6 +46,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### React
 - [React HandBook](https://flaviocopes.com/page/list-subscribed)
+
+### Angular
+- [Decorator Design Pattern](https://blog.logrocket.com/understanding-the-viewchild-and-viewchildren-decorators-in-angular-10/)
 
 ### Networking
 - [Networking Fundamentals](https://tushars.xyz/data/cn.html)
