@@ -16,6 +16,7 @@ This repository hosts the useful links to the knowledge that I've attained throu
 - [Networking](#networking)
 - [DBMS](#dbms)
 - [Operating Systems](#operating-systems)
+- [CORS](#cors)
 
 ## Algorithms
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -72,3 +73,7 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### Algorithmic Trading
 - [Algorithmic Trading With Python](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+- [Raspberry Pi Crypto Trading Bot with Pythonic](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
+
+### CORS
+- [Basics of CORS](https://frontendian.co/cors)
