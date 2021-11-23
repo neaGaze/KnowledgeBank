@@ -9,6 +9,9 @@ This repository hosts the useful links to the knowledge that I've attained throu
 - [React](#react)
 - [Angular](#angular)
 
+## AWS
+- [Dynamo DB](#dynamo-db)
+
 ## Machine Learning / AI
 [Deep Learning](#deep-learning)
 
@@ -77,3 +80,6 @@ This repository hosts the useful links to the knowledge that I've attained throu
 
 ### CORS
 - [Basics of CORS](https://frontendian.co/cors)
+
+### Dynamo DB
+- [Advanced Design Pattern for Dynamo DB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
